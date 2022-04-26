@@ -19,7 +19,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-NodeJs-333333?style=flat&logo=node.js)
-![iOS](https://img.shields.io/badge/-iOS-333333?style=flat&logo=iOS)
 ![iOS](https://img.shields.io/badge/iOS-Dev-green)
 ![Swift](https://img.shields.io/badge/Swift-Dev-red)
 
