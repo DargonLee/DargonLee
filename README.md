@@ -18,10 +18,9 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
 ![Node.js](https://img.shields.io/badge/-Node-333333?style=flat&logo=node.js)
-![iOS](https://img.shields.io/badge/-Koa2-333333?style=flat&logo=koa.js)
+![iOS](https://img.shields.io/badge/iOS-Dev-green)
 ![Java](https://img.shields.io/badge/-Miniprogram-333333?style=flat&logo=wechat)
-<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-<img alt="NestJs" src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" />
+![Swift](https://img.shields.io/badge/Swift-Dev-red)
 
 ### ⭐️ &nbsp;Github Star
 
