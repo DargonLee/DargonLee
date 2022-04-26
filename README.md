@@ -14,7 +14,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Java](https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fpic.hicxy.com%2F2022%2F02%2F06b77d1c9cd46ed775f0b648e0cf5bb2f6.jpg&refer=http%3A%2F%2Fpic.hicxy.com&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=auto?sec=1653531109&t=dd72a1a0e11e3170da340c551ed0b595)
+![Java](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
