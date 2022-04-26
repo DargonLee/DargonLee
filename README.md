@@ -14,7 +14,7 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![Java](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=java)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript)
 ![Vue](https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js)
